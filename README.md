@@ -1,7 +1,7 @@
 # calc-app
 
-#node version 18
+# node version 18
 
-#npm install
+# npm install
 
-#npm start
+# npm start
